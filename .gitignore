@@ -1,0 +1,10 @@
+# Build directory
+build/
+
+# Runtime data
+students.dat
+
+# IDE
+.vscode/
+.idea/
+*.swp
