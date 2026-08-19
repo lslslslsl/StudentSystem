@@ -15,6 +15,7 @@ Menu::Menu() {
 }
 
 // 功能：运行主循环（显示菜单并响应用户选择）
+//菜单交互
 void Menu::run() {
     while (true) {
         showMenu();
